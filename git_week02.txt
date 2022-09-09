@@ -30,3 +30,5 @@
 - push와 pull 은 기본적으로 tracking(추적)되고 있는 브랜치를 기준으로 commit 내역을 반영합니다.
 
     ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d70c5ebb-834b-490f-8a71-eb86ddb69300/2week.017.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d70c5ebb-834b-490f-8a71-eb86ddb69300/2week.017.jpeg)
+
+- 수정내용
